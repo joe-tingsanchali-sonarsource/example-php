@@ -38,7 +38,7 @@ jobs:
           args: >
             -Dsonar.verbose=true
             -Dsonar.php.coverage.reportPaths=coverage.xml
-      - uses: sonarsource/sonarqube-quality-gate-action@master
+      - uses: SonarSource/sonarqube-quality-gate-action@master
         timeout-minutes: 5
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
