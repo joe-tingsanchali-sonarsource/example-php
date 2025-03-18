@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Codecov
+Copyright (c) 2025 Codecov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
